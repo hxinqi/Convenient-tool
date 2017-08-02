@@ -1,0 +1,6 @@
+使用说明：
+
+1、如果打开程序出错，请检查电脑是否已经安装了 .NET FrameWork 4.0 的运行环境（我们已经在”其它文件”目录下面为您准备好）。
+2、由于 SQLite 依赖于操作系统，所以务必选择相应的操作系统版本（32位或64位）来运行程序。另外如果在 Windows XP 下面执行程序，在连接数据库时提示“Could not load file or assembly 'System.Data.SQLite.dll' or one of its dependencies. 找不到指定的模块。”，那么请先执行“其它文件”目录下面的 vcredist_x86.exe 程序，把 Visual C++ 2010 安装到系统环境中。
+3、如果需要最新的程序版本，请访问 http://www.szmesoft.com 官网进行下载
+4、使用过程中如果遇到无法解决的问题，可以通过 QQ：1040975311 免费得到帮助

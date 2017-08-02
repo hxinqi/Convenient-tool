@@ -1,0 +1,22 @@
+欢迎使用由www.jq-school.com网站推出的前端利器-网站抓取精灵V3.0正式版
+
+
+添加修正以下功能：
+1、修正了页面抓取内容路径的自动更改
+2、修正了另一种样式引入的抓去@import url("");
+3、修正了广告联盟和谷歌库js文件的抓取限制
+4、修改了抓取链接a标签中的图片资源
+
+
+技术讨论群如下：
+1群：244127054，2群：263327061，3群：272329133，4群：76287629，5群：44505628
+6群：141733090，7群：221716837
+
+非常感谢网友水墨寒为V3.0版本打造界面图片
+
+
+官方网站：http://www.jq-school.com
+腾讯微博：http://t.qq.com/jqueryschool
+新浪微博：http://weibo.com/jqueryschool
+友情赞助：http://www.jq-school.com/alipay.aspx
+在线留言：http://www.jq-school.com/Feedback.aspx
